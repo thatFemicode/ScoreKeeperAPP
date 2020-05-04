@@ -1,0 +1,1 @@
+This app helps people who are playing a game keep us with their score so as not to get cheated. The Scorekeeper App will reset once the reset button is clicked on after winning score is reached.
